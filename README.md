@@ -32,15 +32,13 @@ The idea is to understand:
 
 * How variadic functions work (`<stdarg.h>`)
 * How to manipulate strings and numbers manually
-* How to write robust, modular C code without relying on standard printing functions
 
 ---
 
 ## 📦 Contents
 
-* `ft_printf.c` — main function that manages parsing
-* Helper files for each conversion type
-* Utility functions for number/string handling
+* `ft_printf.c` — main function
+* Helper/Utils files
 * A Makefile that builds the `libftprintf.a` library
 
 ---
